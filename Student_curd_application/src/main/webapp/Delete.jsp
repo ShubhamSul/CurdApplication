@@ -12,7 +12,7 @@ font-size:25px;
 </style>
 </head>
 <body style="background-color: #E8A87C;" link="red" vlink="black" alink="yellow">
-<form action="Deletecontroller">
+<form action="DeleteController">
 Enter Student Id: <input type="text" name="stdID"><br>
 <input type="submit" value="Delete"><br>
 </form>
